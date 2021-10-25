@@ -1,2 +1,2 @@
-# codechef
-In this repo, I have stored all the problems solutions that I have solved on codechef contests.
+# Codechef
+The Repo Contained, all the Problems Solutions That I've Solved on Codechef Contests.
